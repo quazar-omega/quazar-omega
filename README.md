@@ -1,16 +1,20 @@
-### Hi there 👋
+# Heya, I'm QuazarOmega!
 
-<!--
-**quazar-omega/quazar-omega** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## What I can do
+I can complain, eat hot chip and lie
 
-Here are some ideas to get you started:
+## What I can't do yet <sup>(and plan to learn)</sup>
+- Rust
+- Solid JS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ..what I can actually do
+- Dart
+- Javascript
+- PHP
+- Java
+- C
+
+## My tools
+- Fedora Silverblue ❤️
+- VSCodium
+- Inkscape
