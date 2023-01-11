@@ -19,5 +19,5 @@ I can complain, eat hot chip and lie
 - VSCodium
 - Inkscape
 
-## Send me your <img src="./gnome-logo.svg" width=15px> pics
+## Send me your <img alt="Gnome" src="./gnome-logo.svg" width=15px> pics
 e-mail: [omega-quazar@proton.me](mailto:omega-quazar@proton.me) <sub>why not quazar-omega@proton.me? Because domains are read in reverse obvi- Ok, it was already taken (╥﹏╥)</sub>
