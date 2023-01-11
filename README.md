@@ -1,4 +1,4 @@
-# Heya, I'm QuazarOmega!
+# Heya, you can call me Quazar!
 
 ## What I can do
 I can complain, eat hot chip and lie
@@ -18,3 +18,6 @@ I can complain, eat hot chip and lie
 - Fedora Silverblue ❤️
 - VSCodium
 - Inkscape
+
+## Send me your <img src="./gnome-logo.svg" width=10px> pics
+e-mail: [omega-quazar@proton.me](mailto:omega-quazar@proton.me) <sup><sup>(why not quazar-omega@proton.me? Because domains are read in reverse obvi- Ok, it was already taken (╥﹏╥))</sup></sup>
