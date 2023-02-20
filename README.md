@@ -19,6 +19,8 @@ I can complain, eat hot chip and lie
 - VSCodium
 - Inkscape
 
-## Send me your <img title="Gnome" alt="Gnome" src="./gnome-logo.svg" width=15px> pics
-- 💌 e-mail: [omega-quazar@proton.me](mailto:omega-quazar@proton.me)
-- Matrix [@quazaromega:matrix.org](https://matrix.to/#/@quazaromega:matrix.org)
+## Send me your <img title="Gnome" alt="Gnome" src="./gnome-logo.svg" width=20px> pics
+💌 e-mail: [omega-quazar@proton.me](mailto:omega-quazar@proton.me)  
+
+
+<img alt="matrix logo" src="./matrix-logo.svg" width="20px"> Matrix [@quazaromega:matrix.org](https://matrix.to/#/@quazaromega:matrix.org)
