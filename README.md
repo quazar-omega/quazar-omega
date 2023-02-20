@@ -20,4 +20,5 @@ I can complain, eat hot chip and lie
 - Inkscape
 
 ## Send me your <img title="Gnome" alt="Gnome" src="./gnome-logo.svg" width=15px> pics
-e-mail: [omega-quazar@proton.me](mailto:omega-quazar@proton.me) <sub>why not quazar-omega@proton.me? Because domains are read in reverse obvi- Ok, it was already taken (╥﹏╥)</sub>
+- 💌 e-mail: [omega-quazar@proton.me](mailto:omega-quazar@proton.me)
+- Matrix [@quazaromega:matrix.org](https://matrix.to/#/@quazaromega:matrix.org)
