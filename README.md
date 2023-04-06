@@ -19,7 +19,7 @@ I can complain, eat hot chip and lie
 - VSCodium
 - Inkscape
 
-## Send me your <img title="Gnome" alt="Gnome" src="./gnome-logo.svg" width=20px> pics
+## Send me your <a href="https://www.gnome.org/"><img title="Gnome" alt="Gnome" src="./gnome-logo.svg" width=20px><a> pics
 💌 e-mail: [omega-quazar@proton.me](mailto:omega-quazar@proton.me)  
 
 
