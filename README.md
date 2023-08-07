@@ -4,7 +4,7 @@
 I can complain, eat hot chip and lie
 
 ## What I can't do yet <sup>(and plan to learn)</sup>
-- Rust
+- [ ] Rust
 - [x] Solid JS (still a noob, but feeling pretty comfortable now)
 
 ## ..what I can actually do
